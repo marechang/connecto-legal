@@ -9,6 +9,7 @@ Site statique déployé sur Vercel — l'URL de production est fournie aux store
 | Fichier | URL | Contenu |
 |---|---|---|
 | `index.html` | `/` | Politique de confidentialité |
+| `terms.html` | `/terms.html` (ou `/terms`) | Conditions générales d'utilisation |
 
 ## Ajouter une nouvelle page légale
 
